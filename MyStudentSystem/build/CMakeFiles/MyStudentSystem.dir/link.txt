@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/MyStudentSystem.dir/MyStudentSystem.cpp.o CMakeFiles/MyStudentSystem.dir/src/Operations.cpp.o CMakeFiles/MyStudentSystem.dir/src/Base.cpp.o CMakeFiles/MyStudentSystem.dir/src/DisplayOperations.cpp.o  -o MyStudentSystem 
