@@ -1,3 +1,0 @@
-/home/akm009/Desktop/C++Practice/MyRepository/build/CMakeFiles/rebuild_cache.dir
-/home/akm009/Desktop/C++Practice/MyRepository/build/CMakeFiles/edit_cache.dir
-/home/akm009/Desktop/C++Practice/MyRepository/build/CMakeFiles/MyStudentSystem.dir
